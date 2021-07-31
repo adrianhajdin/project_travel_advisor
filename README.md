@@ -18,5 +18,4 @@ In this video, you'll learn:
 ## Stay up to date with new projects
 New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
 
-Setup:
-- run ```npm i && npm start``` to start the development server
+Setup: run ```npm i && npm start``` to start the development server
