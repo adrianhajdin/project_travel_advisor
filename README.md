@@ -1,7 +1,5 @@
 # Travel Advisor
 
-### [Live Site](https://travel-advisor.netlify.app/)
-
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
 ## Introduction
