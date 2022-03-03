@@ -26,7 +26,7 @@ const Map = ({ coords, places, setCoords, setBounds, setChildClicked, weatherDat
         }}
         onChildClick={(child) => setChildClicked(child)}
       >
-        {places.length && places.map((place, i) => (
+        {places?.length && places.map((place, i) => (
           <div
             className={classes.markerContainer}
             lat={Number(place.latitude)}

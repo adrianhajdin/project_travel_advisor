@@ -46,5 +46,17 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0"
-  }
+  },
+  "description": "![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhijain2003/project_travel_advisor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhijain2003/project_travel_advisor/issues"
+  },
+  "homepage": "https://github.com/abhijain2003/project_travel_advisor#readme"
 }
