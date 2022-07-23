@@ -9,7 +9,7 @@ const List = ({ places, type, setType, rating, setRating, childClicked, isLoadin
   const classes = useStyles();
 
   useEffect(() => {
-    setElRefs((refs) => Array(places.length).fill().map((_, i) => refs[i] || createRef()));
+    setElRefs((refs) => places.map((_, i) => refs[i] || createRef()));
   }, [places]);
 
   return (
